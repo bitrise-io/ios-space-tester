@@ -171,6 +171,7 @@
 				TargetAttributes = {
 					BADDF9E61A703F87004C3526 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 72SA8V3WYL;
 					};
 					BADDFA021A703F87004C3526 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -349,6 +350,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = "BitriseSampleAppsiOS With Spaces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -359,6 +361,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72SA8V3WYL;
 				INFOPLIST_FILE = "BitriseSampleAppsiOS With Spaces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -418,6 +421,7 @@
 				BADDFA0F1A703F87004C3526 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BADDFA101A703F87004C3526 /* Build configuration list for PBXNativeTarget "BitriseSampleAppsiOS With SpacesTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +430,7 @@
 				BADDFA121A703F87004C3526 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
